@@ -1,2 +1,2 @@
 # Python
-<b>Python codes</b>
+<b>Btech S6 Python codes</b>
